@@ -891,17 +891,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.3535534"
-     inkscape:cx="-165.17015"
-     inkscape:cy="437.60856"
+     inkscape:zoom="0.50000001"
+     inkscape:cx="708.54203"
+     inkscape:cy="524.11584"
      inkscape:document-units="mm"
      inkscape:current-layer="layer4"
      showgrid="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1377"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1278"
+     inkscape:window-height="1368"
+     inkscape:window-x="1273"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      inkscape:snap-others="false"
      inkscape:snap-nodes="false" />
   <metadata
@@ -912,7 +912,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1176,9 +1176,7 @@
              id="tspan10002"
              x="127.23871"
              y="142.6051"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';stroke-width:0.21835291">a = 2  +   <tspan
-   id="tspan11883"
-   style="fill:none">|</tspan> +    </tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';stroke-width:0.21835291">a =      +2   +2    </tspan></text>
       </g>
       <text
          id="text7533-8"
@@ -1207,7 +1205,7 @@
       </g>
       <g
          id="g9545-7"
-         transform="translate(-3.5358584,44.71622)">
+         transform="translate(-4.0785417,44.328589)">
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -1358,12 +1356,12 @@
        id="path9040-5-7"
        inkscape:connector-curvature="0" />
     <rect
-       style="opacity:0.969;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d42aff;stroke-width:1.03046048;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.63999999;stroke-opacity:1;paint-order:fill markers stroke"
+       style="opacity:0.969;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#d42aff;stroke-width:0.99921376;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.63999999;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect12157"
-       width="132.97089"
-       height="35.688145"
-       x="331.1152"
-       y="-128.41916" />
+       width="130.38289"
+       height="34.222683"
+       x="331.09958"
+       y="-128.43478" />
   </g>
   <g
      inkscape:label="Koordinaatisto"
