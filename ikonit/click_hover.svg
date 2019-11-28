@@ -9,13 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="68.085258mm"
+   height="83.731636mm"
+   viewBox="0 0 68.085258 83.731636"
    version="1.1"
    id="svg2657"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="click_hover.svg">
+   sodipodi:docname="click_hover.svg"
+   inkscape:export-filename="U:\matikkapakki\ikonit\click_hover.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2651" />
   <sodipodi:namedview
@@ -25,16 +28,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.60938539"
-     inkscape:cx="258.04047"
-     inkscape:cy="459.95098"
+     inkscape:zoom="1.2187708"
+     inkscape:cx="-82.051424"
+     inkscape:cy="66.845747"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="716"
-     inkscape:window-height="1005"
-     inkscape:window-x="1634"
-     inkscape:window-y="117"
+     inkscape:window-width="1278"
+     inkscape:window-height="1368"
+     inkscape:window-x="1273"
+     inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata2654">
@@ -44,16 +47,17 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-40.902193,-83.962946)">
     <path
-       style="fill:none;stroke:#000000;stroke-width:2.46499991;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;stroke:#000000;stroke-width:2.46499991;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 61.739261,166.0433 -19.604569,-35.32817 0.307012,-9.68678 7.404062,-1.22805 7.283096,7.2831 V 89.304713 l 4.109267,-4.109267 h 7.289641 l 4.059156,4.059155 v 41.405809 -22.67369 h 10.881077 l 2.413093,4.1796 v 17.66935 -18.10717 l 7.892901,0.52916 3.356843,3.69755 v 12.24546 -12.17975 l 8.24252,0.52917 2.38159,9.78992 v 21.21334 l -11.434804,16.87624 -1.173459,2.03249 H 62.140165 Z"
        id="path6931"
        inkscape:connector-curvature="0"

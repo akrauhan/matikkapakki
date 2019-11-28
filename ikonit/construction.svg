@@ -9,13 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="42.969563mm"
+   height="38.857029mm"
+   viewBox="0 0 42.969563 38.857029"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="construction.svg">
+   sodipodi:docname="construction.svg"
+   inkscape:export-filename="U:\matikkapakki\ikonit\construction.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.87427083"
-     inkscape:cx="43.303167"
-     inkscape:cy="677.98366"
+     inkscape:zoom="0.61820283"
+     inkscape:cx="-372.74452"
+     inkscape:cy="-355.30779"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -46,21 +49,22 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-13.0847,-33.922762)">
     <path
        sodipodi:type="star"
        style="opacity:1;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.79999995;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.63999999;stroke-opacity:1;paint-order:fill markers stroke"
        id="path815"
        sodipodi:sides="3"
-       sodipodi:cx="34.569482"
-       sodipodi:cy="58.432303"
+       sodipodi:cx="34.569481"
+       sodipodi:cy="58.432304"
        sodipodi:r1="23.109543"
        sodipodi:r2="12.941344"
        sodipodi:arg1="2.6179939"
