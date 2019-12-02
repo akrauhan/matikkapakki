@@ -504,9 +504,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="157.31608"
-     inkscape:cy="32.353888"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="-5.6587007"
+     inkscape:cy="75.424453"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -515,8 +515,8 @@
      inkscape:snap-nodes="false"
      inkscape:window-width="1460"
      inkscape:window-height="533"
-     inkscape:window-x="29"
-     inkscape:window-y="212"
+     inkscape:window-x="56"
+     inkscape:window-y="739"
      inkscape:window-maximized="0">
     <sodipodi:guide
        position="13.985119,34.206845"
@@ -699,7 +699,7 @@
          style="font-size:6.3499999px;fill:#000000;stroke-width:0.42873722">+</tspan></text>
     <g
        id="g24833"
-       transform="matrix(1.211256,0,0,1.211256,-28.797694,-8.8190875)"
+       transform="matrix(1.211256,0,0,1.211256,-29.326861,-8.8190875)"
        style="fill:#000000">
       <g
          id="g34947">
@@ -796,7 +796,7 @@
        y="0"
        xlink:href="#g24833"
        id="use34955"
-       transform="translate(14.552083,6.7090774)"
+       transform="translate(15.08125,6.7090774)"
        width="100%"
        height="100%" />
     <use
@@ -804,7 +804,7 @@
        y="0"
        xlink:href="#g24833"
        id="use34957"
-       transform="translate(62.59287,17.292414)"
+       transform="translate(63.122037,17.292414)"
        width="100%"
        height="100%" />
     <use
@@ -812,7 +812,7 @@
        y="0"
        xlink:href="#g24833"
        id="use35124"
-       transform="translate(82.058644,10.205358)"
+       transform="translate(82.587811,10.205358)"
        width="100%"
        height="100%" />
     <use
@@ -852,7 +852,7 @@
        y="0"
        xlink:href="#use35410"
        id="use35416"
-       transform="translate(-25.379861,8.6862595)"
+       transform="translate(-25.909028,8.6862595)"
        width="100%"
        height="100%" />
     <use
@@ -945,7 +945,7 @@
          style="font-size:6.3499999px;fill:#000000;stroke-width:0.42873722">+</tspan></text>
     <g
        id="g24833-2"
-       transform="matrix(1.211256,0,0,1.211256,21.725715,-13.80306)"
+       transform="matrix(1.211256,0,0,1.211256,21.196548,-13.80306)"
        style="fill:#000000">
       <g
          id="g34947-1">
