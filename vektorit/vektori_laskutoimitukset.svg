@@ -612,14 +612,19 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3411704"
-       x="165.55737"
-       y="10.861026"
+       x="183.52817"
+       y="9.8404894"
        id="text15097"><tspan
          sodipodi:role="line"
          id="tspan15095"
-         x="165.55737"
-         y="10.861026"
-         style="font-size:6.3499999px;stroke-width:0.3411704">Kertominen</tspan></text>
+         x="183.52817"
+         y="9.8404894"
+         style="font-size:6.3499999px;text-align:center;text-anchor:middle;stroke-width:0.3411704">Vakiolla</tspan><tspan
+         sodipodi:role="line"
+         x="183.52817"
+         y="17.777988"
+         style="font-size:6.3499999px;text-align:center;text-anchor:middle;stroke-width:0.3411704"
+         id="tspan3816">kertominen</tspan></text>
     <path
        style="fill:#ff7f2a;stroke:#ff7f2a;stroke-width:1.20299995;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker49288)"
        d="M 12.835499,38.700964 22.255304,36.68292"
@@ -674,13 +679,13 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#ff7f2a;stroke:#ff7f2a;stroke-width:1.20299995;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-1-9)"
-       d="m 166.14983,29.992038 19.43419,-7.323065"
+       d="m 166.14983,33.696207 19.43419,-7.323065"
        id="path15101-8-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:#ff7f2a;stroke:#ff7f2a;stroke-width:1.20299995;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-1-9-2)"
-       d="M 166.15886,33.57469 199.38653,21.054052"
+       d="M 166.15886,37.278859 199.38653,24.758221"
        id="path15101-8-0-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -790,28 +795,28 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="192.92709"
-       y="33.249462"
+       y="36.953632"
        id="text28214"><tspan
          sodipodi:role="line"
          id="tspan28212"
          x="192.92709"
-         y="33.249462"
+         y="36.953632"
          style="font-size:6.3499999px;stroke-width:0.26458332"> </tspan><tspan
          sodipodi:role="line"
          x="192.92709"
-         y="41.186962"
+         y="44.891132"
          style="font-size:6.3499999px;stroke-width:0.26458332"
          id="tspan28216" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.57176471"
        x="178.54169"
-       y="34.616264"
+       y="38.320435"
        id="text28220"><tspan
          sodipodi:role="line"
          id="tspan28218"
          x="178.54169"
-         y="34.616264"
+         y="38.320435"
          style="font-size:6.3499999px;stroke-width:0.57176471"> λ</tspan></text>
     <use
        x="0"
@@ -890,7 +895,7 @@
        y="0"
        xlink:href="#use35126"
        id="use35418"
-       transform="translate(37.381837,-1.6630953)"
+       transform="translate(37.381837,2.0410714)"
        width="100%"
        height="100%" />
     <use
