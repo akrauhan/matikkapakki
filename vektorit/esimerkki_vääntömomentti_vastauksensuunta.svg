@@ -227,8 +227,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="102.91725"
-     inkscape:cy="247.46665"
+     inkscape:cx="-6.2124523"
+     inkscape:cy="356.2709"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -268,10 +268,10 @@
        transform="matrix(1,0,0,0.25611148,3.5967362,94.877124)">
       <path
          style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.24655557;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.63999999;stroke-opacity:1;paint-order:fill markers stroke"
-         d="m 142.03296,45.084247 -58.047099,50.69665 c -4.329004,-1.85021 -8.974613,-2.80417 -13.667383,-2.80655 -19.578549,-2e-5 -35.450094,16.210013 -35.450033,36.206063 2.21e-4,19.99585 15.871682,36.20556 35.450033,36.20554 19.578353,2e-5 35.449812,-16.20969 35.450032,-36.20554 -0.005,-3.39541 -0.47837,-6.77318 -1.40509,-10.03401 l 58.06364,-50.711123 0.22916,-23.41818 z"
+         d="m 142.03296,45.084247 -58.047099,50.69665 c -4.329004,-1.85021 -8.974613,-2.80417 -13.667383,-2.80655 -19.578549,-2e-5 -35.450094,16.210013 -35.450033,36.206063 2.21e-4,19.99585 15.871682,36.20556 35.450033,36.20554 19.578353,2e-5 35.449812,-16.20969 35.450032,-36.20554 -0.002,-1.56652 0.32564,-21.20816 0.12542,-22.75742 -0.0749,-0.57966 -1.78727,8.4043 -1.78727,8.4043 -0.12953,1.39657 0.59595,5.51263 0.25676,4.31911 l 58.06364,-50.711123 0.22916,-23.41818 z"
          id="path7486-5"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccsccccc" />
+         sodipodi:nodetypes="ccccscsscccc" />
       <path
          style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.46499991;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.63999999;stroke-opacity:1;paint-order:fill markers stroke"
          d="m 58.738989,141.46429 c -0.415956,0.72046 0.206314,23.97284 -0.625598,23.97284 -0.831913,0 -22.931119,-20.9715 -23.347075,-21.69196 -0.415957,-0.72046 -0.850269,-28.18398 -0.434313,-28.90443 0.415956,-0.72046 23.183336,-13.86521 24.015249,-13.86521 0.831913,0 23.599293,13.14475 24.015249,13.86521 0.415956,0.72045 -23.207556,25.90309 -23.623512,26.62355 z"
